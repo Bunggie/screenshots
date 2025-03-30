@@ -6,7 +6,7 @@ basepath = "."
 
 locales = [
     "ach",
-    "ar",
+    "ar-,
     "az",
     "be",
     "bg",
